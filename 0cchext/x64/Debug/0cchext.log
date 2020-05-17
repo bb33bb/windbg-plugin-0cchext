@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\wdbgexts.h(2478,62): warning C4838: 从“int”转换到“ULONG”需要收缩转换
+  0cchext.cpp
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\Dbghelp.h(1548,2): warning C4091: “typedef ”: 没有声明变量时忽略“<unnamed-enum-hdBase>”的左侧
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\Dbghelp.h(3065,2): warning C4091: “typedef ”: 没有声明变量时忽略“<unnamed-enum-sfImage>”的左侧
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(473,7): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(476,8): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(477,28): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(477,53): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(477,83): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(481,15): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(493,27): warning C4477: “sprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(493,27): message : 请考虑在格式字符串中使用“%zu”
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(1511,25): warning C4477: “sprintf_s”: 格式字符串“%04X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(1511,25): message : 请考虑在格式字符串中使用“%llX”
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(1511,25): message : 请考虑在格式字符串中使用“%IX”
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(1511,25): message : 请考虑在格式字符串中使用“%I64X”
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\0cchext.cpp(2959,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  struct_script.cpp
+  util.cpp
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\util.cpp(857,5): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  dllmain.cpp
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\wdbgexts.h(2478,62): warning C4838: 从“int”转换到“ULONG”需要收缩转换
+  engextcpp.cpp
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\wdbgexts.h(2478,62): warning C4838: 从“int”转换到“ULONG”需要收缩转换
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\dbghelp.h(1548,2): warning C4091: “typedef ”: 没有声明变量时忽略“<unnamed-enum-hdBase>”的左侧
+C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\0cchext\inc\dbghelp.h(3065,2): warning C4091: “typedef ”: 没有声明变量时忽略“<unnamed-enum-sfImage>”的左侧
+    正在创建库 C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\x64\Debug\0cchext.lib 和对象 C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\x64\Debug\0cchext.exp
+  0cchext.vcxproj -> C:\Users\avboy\Desktop\gitlab\_____浏览器安全学习\0cchext\x64\Debug\0cchext.dll
